@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+.errorMessage > li{
+    list-style: none;
+    color: rgb(162, 39, 39);
+    font-weight: bold;
+}
